@@ -36,13 +36,13 @@ The goal of this project is to:
    Open your terminal and clone the project from GitHub:  
    `git clone https://github.com/username/crypto_portfolio_tracker.git`
    `cd crypto_portfolio_tracker`
-2. **Install Dependencies**
+2. **Install Dependencies**:
 Install the required libraries using pip:
   `pip install requests matplotlib`
-3. **Run the Project**
+3. **Run the Project**:
 Execute the main.py file to run the program:
   `python3 main.py`
-4. **View the Outputs**
+4. **View the Outputs**: 
   * The program will display the total portfolio value and a breakdown in the terminal.
   * It will also generate:
     - A pie chart showing the portfolio distribution.
