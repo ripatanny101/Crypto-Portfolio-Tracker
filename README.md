@@ -1,4 +1,4 @@
-# Cryptocurrency Portfolio Tracker
+## Cryptocurrency Portfolio Tracker
 
 ## Project Overview  
 The **Cryptocurrency Portfolio Tracker** is a Python-based program designed to calculate the total value of a cryptocurrency portfolio using live prices from the **public CoinGecko API**. Users can input their cryptocurrency holdings (e.g., Bitcoin, Ethereum), and the program fetches real-time prices to provide a detailed value breakdown. Additionally, the program generates clear and insightful **visualizations** in the form of a **pie chart** and a **bar chart** to display portfolio composition.
