@@ -34,7 +34,7 @@ The goal of this project is to:
 
 1. **Clone the Repository**  
    Open your terminal and clone the project from GitHub:  
-   `git clone https://github.com/yourusername/crypto_portfolio_tracker.git`
+   `git clone https://github.com/username/crypto_portfolio_tracker.git`
    `cd crypto_portfolio_tracker`
 2. **Install Dependencies**
 Install the required libraries using pip:
