@@ -1,5 +1,3 @@
-# Crypto-Portfolio-Tracker
-
 # Cryptocurrency Portfolio Tracker
 
 ## Project Overview  
@@ -50,13 +48,17 @@ Execute the main.py file to run the program:
     - A pie chart showing the portfolio distribution.
     - A bar chart showing the absolute value of each cryptocurrency.
 
+---
+
 ### API Details
 The project uses the CoinGecko API to fetch real-time cryptocurrency prices. This API is public and does not require an API key.
 
 * API Endpoint: `https://api.coingecko.com/api/v3/simple/price`
 * Parameters:
-    ids: A list of cryptocurrency IDs (e.g., "bitcoin, ethereum").
-    vs_currencies: The currency to display prices in (default: "usd").  
+    `ids`: A list of cryptocurrency IDs (e.g., "bitcoin, ethereum").
+    `vs_currencies`: The currency to display prices in (default: "usd").  
+
+---
 
 ### Notes
 - The CoinGecko API is public, so no API key is required to run this project.
